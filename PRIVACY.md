@@ -15,6 +15,7 @@ To produce your daily ideas, when you use a cloud AI provider (for example Anthr
 - The text you enter in **About me**, **Industry focus** and **My Business Challenges**
 - **Public posts and listings** the app collected (for example Hacker News posts and comments, App Store reviews, government contract notices, startup listings)
 - Your **notes on a saved project**, when you ask for variant suggestions
+- The **details of an idea**, when you ask for its starter kit
 
 The app shows which company receives this, and the country where it's based, and asks for your agreement before sending anything. You can withdraw agreement at any time in Settings → Advanced → AI & costs; the app then uses Apple's on-device AI instead. Some providers are based in China; the app tells you when that's the case.
 
