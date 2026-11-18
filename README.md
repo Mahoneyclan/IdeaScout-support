@@ -2,11 +2,12 @@
 
 ## About the app
 
-IdeaScout is an iPhone and iPad app for people looking for a business software idea they can build on their own with AI coding tools.
+IdeaScout is a free iPhone and iPad app for people who want to build and sell a small app of their own with an AI coding tool.
 
-- Every day it scans places where businesses talk about problems and trends, and suggests business product ideas, each with a buyer, a price and a sales channel.
-- Ideas are ranked and kept in a daily history; you can save the ones you like and add notes.
-- It uses an AI provider you choose, with your own key, shows the cost before each refresh and has a daily spending limit.
+- Every day it reads public complaints and listings (App Store and WordPress plugin reviews, Hacker News and more) and suggests app ideas in your area, each with a buyer, a price at most a quarter of the competition's, and where to find customers.
+- A second, sceptical AI tries to knock every idea down first. Each idea shows why it passes four simple tests, and comes with a starter kit you can paste into your coding tool.
+- "Reimagine an app" explains an app you name, then suggests gaps beside it that you could fill.
+- It uses the AI you choose, with your own key, shows the cost before every paid step and has a daily spending limit.
 
 ## Get help
 
@@ -20,6 +21,10 @@ If you're reporting a problem, please include:
 - a screenshot, if it helps
 
 **Please note:** I'm a novice developer and make this app as a hobby, in my spare time. I'm happy to help and I read every message, but replies and fixes may take a while, and some problems may be beyond what I can fix.
+
+## Support the app
+
+My apps are free. I make them as a hobby, so I can't promise regular updates or new features. If an app is useful to you and you'd like to say thanks, you can shout me a coffee from the Support section in the app's Settings. It's completely optional, and the app works the same either way.
 
 ## Privacy
 
